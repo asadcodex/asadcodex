@@ -12,4 +12,3 @@
 
 - ⚡ I turn designs into **Rich Experiences**
 
-- 💡 Problem Solver
