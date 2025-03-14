@@ -4,13 +4,15 @@
 
 <h3 align="center">Creative Front-End Developer with over 4 years of experience based in Delhi, India</h3>
 
-- 👨🏼‍🎓 Currently pursuing Computer Application at Manipal University Jaipur
-
-- 💬 Ask me about **JS/React, Next.js, GSAP, Three.js**
+<div style="margin-left: 14%;">
   
-- 🌱 I'm currently improving my **Three.js** skills
+👨🏼‍🎓 Pursuing **Computer Application** at Manipal University Jaipur
 
-- ⚡ I turn designs into **Rich Experiences**
+💬 Ask me about **JS/React, Next.js, GSAP, Three.js**
+  
+🌱 I'm currently improving my **Three.js** skills
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadcodex/asadcodex/output/github-snake-dark.svg" />
