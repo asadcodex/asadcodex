@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Wawa Sensei</h1>
+![Programming logos](./public/logos.png)
 
-<h3 align="center">3D Web Developer from France living his best life in Tokyo 🇯🇵</h3>
+<h1 align="center">Hi 👋, I'm Asad Raza</h1>
 
+<h3 align="center">Creative Front-End Developer with over 4 years of experience based in delhi, india</h3>
 
-<p align="center">Learn Three.js with React with <a href="https://wawasensei.dev/">my courses and video tutorials</a>.</p>
+- 👨🏼‍🎓 currently pursuing computer application at manipal university jaipur
 
-- 🔭 I’m currently working on [my YouTube content](https://youtube.com/c/WawaSensei)
-
-- 💬 Ask me about **React/React Native, Next.js, Three.js, React Three Fiber**
+- 💬 Ask me about **JS/React, Next.js, GSAP, Three.js**
   
-- 🌱 I’m currently improving my **Blender** skills
+- 🌱 I’m currently improving my **Three.js** skills
 
-- 📫 How to reach me **contact@wawasensei.dev**
+- ⚡ I turn designs into **Rich Experiences**
 
-- ⚡ Fun fact **I am very funny**
-
+- 💡 Problem Solver
