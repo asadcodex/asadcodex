@@ -4,7 +4,7 @@
 
 <h3 align="center">Creative Front-End Developer with over 4 years of experience based in Delhi, India</h3>
 
-👨🏼‍🎓 Pursuing **Computer Application** at Manipal University Jaipur
+👨🏼‍🎓 **Computer Application** at Manipal University Jaipur
 
 💬 Ask me about **JS/React, Next.js, GSAP, Three.js**
   
