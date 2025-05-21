@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Asad Raza</h1>
 
-<h3 align="center">Creative Front-End Developer with over 4 years of experience based in Delhi, India</h3>
+<h3 align="center">Creative Developer with over 4 years of experience based in Delhi, India</h3>
 
 👨🏼‍🎓 **Computer Application** at Manipal University Jaipur
 
